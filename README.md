@@ -1,4 +1,4 @@
-# R_Studio_ML
+# R Studio Machine Learning
 This repository contains R scripts and projects developed during my university coursework in Machine Learning, using R Studio. The files demonstrate key data science and machine learning concepts, showcasing my ability to work with various ML algorithms, data preprocessing techniques, and evaluation methods.
 
 Each project focuses on a specific ML topic, implementing algorithms from scratch or using R libraries such as caret, ggplot2, e1071, and mlr.
